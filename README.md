@@ -42,6 +42,7 @@ Estoy emocionada por la oportunidad de colaborar en proyectos desafiantes que me
 ## Contactame por
 
 [![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&labelColor=0D1117)](mailto:svg.mariana.aguilar.saldivar.isc.2001@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:svg.www.linkedin.com/in/mariana-aguilar-s)&nbsp;
 
 
 
