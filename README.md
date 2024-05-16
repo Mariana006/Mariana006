@@ -1,5 +1,5 @@
 ### Hola,soy Mariana Aguilar
-![header]()
+![header](header_perfil_linkedin.png)
 Actualmente soy egresada de la carrera ** Sistemas computacionales** ,mi pasión por el desarrollo
 
 Mi mayor satisfacción radica en **transformar ideas** en realidad a través del código, creando **soluciones** innovadoras y funcionales que mejoren la vida de las personas. Me emociona trabajar en proyectos que desafíen mis **habilidades** ✨ y me permitan aprender y crecer como profesional.
