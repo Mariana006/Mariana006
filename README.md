@@ -4,7 +4,7 @@ Actualmente soy egresada de la carrera ** Sistemas computacionales** ,mi pasión
 
 Mi mayor satisfacción radica en **transformar ideas** en realidad a través del código, creando **soluciones** innovadoras y funcionales que mejoren la vida de las personas. Me emociona trabajar en proyectos que desafíen mis ** habilidades** ✨ y me permitan aprender y crecer como profesional.
   
-Además de mi experiencia en programación ❤, también tengo un gran interés en el diseño de prototipos de sitios front-end. Me encanta trabajar en la creación de interfaces intuitivas y atractivas que proporcionen una experiencia de usuario excepcional. Desde el diseño de la estructura de la información hasta la implementación de diseños responsivos, disfruto cada paso del proceso de desarrollo.
+Además de mi experiencia en programación ❤, también tengo un gran interés en el diseño de prototipos de sitios front-end, me encanta trabajar en la creación de interfaces intuitivas y atractivas que proporcionen una experiencia de usuario excepcional. Desde el diseño de la estructura de la información hasta la implementación de diseños responsivos, disfruto cada paso del proceso de desarrollo.
   
 Mi enfoque meticuloso y mi atención al detalle me permiten crear prototipos de alta calidad que cumplen con los estándares más exigentes. Estoy constantemente explorando nuevas técnicas y herramientas para mejorar mis habilidades y mantenerme al tanto de las últimas tendencias en diseño y desarrollo web.👌
   
