@@ -16,7 +16,7 @@ Estoy emocionada por la oportunidad de colaborar en proyectos desafiantes que me
 + Trabajar en equipo
 + Resolver problemas
 
-## Fortalezas
+## 🏋️‍♀ Fortalezas
 
 + Perseverancia
 + Liderazgo
